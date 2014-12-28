@@ -7,9 +7,9 @@ categories: [ Computers ]
 ---
 {% imgcap middle /images/parallella_solar.jpg Give solar power to your Parallella with a few simple components. %}
 
-_Note: An earlier version of this article appears at [RayHightower.com](http://rayhightower.com/blog/2014/09/09/solar-powered-parallella/)._
-
 How does one make the [Parallella](http://rayhightower.com/blog/2014/07/07/parallella-quick-start-guide-with-gotchas/) run on solar energy? And why should anyone care to do so?
+
+_Note: An earlier version of this article appears at [RayHightower.com](http://rayhightower.com/blog/2014/09/09/solar-powered-parallella/)._
 
 The fastest computers in the world gulp electricity at an alarming rate. For example, [Tianhe-2](http://www.top500.org/system/177999) at the National Super Computer Center in Guangzhou, China uses 17.8 megawatts of energy per year. In dollars, that’s roughly $17 million spent on electricity spent each year, depending on how the electricity is sourced.
 
