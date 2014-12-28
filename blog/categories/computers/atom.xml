@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Computers | RockSolar.com]]></title>
   <link href="http://rocksolar.com/blog/categories/computers/atom.xml" rel="self"/>
   <link href="http://rocksolar.com/"/>
-  <updated>2014-12-27T22:28:03-06:00</updated>
+  <updated>2014-12-27T22:35:45-06:00</updated>
   <id>http://rocksolar.com/</id>
   <author>
     <name><![CDATA[RockSolar.com]]></name>
@@ -20,9 +20,11 @@
     <id>http://rocksolar.com/blog/2014/12/27/solar-powered-parallella</id>
     <content type="html"><![CDATA[<p><span class='caption-wrapper middle'><img class='caption' src='/images/parallella_solar.jpg' width='' height='' alt='Give solar power to your Parallella with a few simple components.' title='Give solar power to your Parallella with a few simple components.'><span class='caption-text'>Give solar power to your Parallella with a few simple components.</span></span></p>
 
-<p>This article describes a simple hardware hack: Making the <a href="http://rayhightower.com/blog/2014/07/07/parallella-quick-start-guide-with-gotchas/">Parallella</a> run on solar energy.</p>
+<p><em>Note: A version of this article appears at <a href="http://rayhightower.com">RayHightower.com</a>.</em></p>
 
-<p>Motivation: The fastest computers in the world gulp electricity at an alarming rate. For example, <a href="http://www.top500.org/system/177999">Tianhe-2</a> at the National Super Computer Center in Guangzhou, China uses 17.8 megawatts of energy per year. In dollars, that’s roughly $17 million spent on electricity spent each year, depending on how the electricity is sourced.</p>
+<p>How does one make the <a href="http://rayhightower.com/blog/2014/07/07/parallella-quick-start-guide-with-gotchas/">Parallella</a> run on solar energy? And why should anyone care to do so?</p>
+
+<p>The fastest computers in the world gulp electricity at an alarming rate. For example, <a href="http://www.top500.org/system/177999">Tianhe-2</a> at the National Super Computer Center in Guangzhou, China uses 17.8 megawatts of energy per year. In dollars, that’s roughly $17 million spent on electricity spent each year, depending on how the electricity is sourced.</p>
 
 <p>Scientists at <a href="http://www.sandia.gov/">Sandia National Laboratories</a> estimate that the earth&rsquo;s surface absorbs enough solar energy in ninety minutes to power every electrical device on the planet for a full year. A year&rsquo;s worth of energy in ninety minutes! Surely we can use some of that energy to power our supercomputers.</p>
 
