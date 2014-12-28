@@ -7,7 +7,7 @@ categories: [ Computers ]
 ---
 {% imgcap middle /images/parallella_solar.jpg Give solar power to your Parallella with a few simple components. %}
 
-_Note: A version of this article appears at [RayHightower.com](http://rayhightower.com)._
+_Note: An earlier version of this article appears at [RayHightower.com](http://rayhightower.com)._
 
 How does one make the [Parallella](http://rayhightower.com/blog/2014/07/07/parallella-quick-start-guide-with-gotchas/) run on solar energy? And why should anyone care to do so?
 
