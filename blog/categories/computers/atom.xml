@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[RockSolar.com]]></title>
-  <link href="http://rocksolar.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Computers | RockSolar.com]]></title>
+  <link href="http://rocksolar.com/blog/categories/computers/atom.xml" rel="self"/>
   <link href="http://rocksolar.com/"/>
   <updated>2014-12-27T22:20:53-06:00</updated>
   <id>http://rocksolar.com/</id>
@@ -18,9 +18,9 @@
     <link href="http://rocksolar.com/blog/2014/12/27/solar-powered-parallella/"/>
     <updated>2014-12-27T22:15:24-06:00</updated>
     <id>http://rocksolar.com/blog/2014/12/27/solar-powered-parallella</id>
-    <content type="html"><![CDATA[<p><span class='caption-wrapper middle'><img class='caption' src='http://rocksolar.com/images/parallella_solar.jpg' width='' height='' alt='Give solar power to your Parallella with a few simple components.' title='Give solar power to your Parallella with a few simple components.'><span class='caption-text'>Give solar power to your Parallella with a few simple components.</span></span></p>
+    <content type="html"><![CDATA[<p><span class='caption-wrapper middle'><img class='caption' src='/images/parallella_solar.jpg' width='' height='' alt='Give solar power to your Parallella with a few simple components.' title='Give solar power to your Parallella with a few simple components.'><span class='caption-text'>Give solar power to your Parallella with a few simple components.</span></span></p>
 
-<p>This article describes a simple hardware hack: Making the <a href="http://rocksolar.com/blog/2014/07/07/parallella-quick-start-guide-with-gotchas/">Parallella</a> run on solar energy.</p>
+<p>This article describes a simple hardware hack: Making the <a href="/blog/2014/07/07/parallella-quick-start-guide-with-gotchas/">Parallella</a> run on solar energy.</p>
 
 <p>Motivation: The fastest computers in the world gulp electricity at an alarming rate. For example, <a href="http://www.top500.org/system/177999">Tianhe-2</a> at the National Super Computer Center in Guangzhou, China uses 17.8 megawatts of energy per year. In dollars, that’s roughly $17 million spent on electricity spent each year, depending on how the electricity is sourced.</p>
 
@@ -46,7 +46,7 @@
 
 <p>Here&rsquo;s how to get started&hellip;</p>
 
-<p><span class='caption-wrapper middle'><img class='caption' src='http://rocksolar.com/images/parallella_usb_solar.jpg' width='' height='' alt='Making the connections.' title='Making the connections.'><span class='caption-text'>Making the connections.</span></span></p>
+<p><span class='caption-wrapper middle'><img class='caption' src='/images/parallella_usb_solar.jpg' width='' height='' alt='Making the connections.' title='Making the connections.'><span class='caption-text'>Making the connections.</span></span></p>
 
 <ul>
 <li><p>First, get an off-the-shelf solar device capable of providing 5 volts at 2 amperes. Many cell phone solar chargers will do this, but some will only provide 1 ampere of current. You will need 2 amperes. As of this writing, Amazon sells solar cell phone chargers for about $35.00. Note that the model shown in this article combines a photovoltaic panel with a lithium ion battery. Energy provided by the sun can be stored by the battery for later use.</p></li>
@@ -59,7 +59,7 @@
 
 <p>You&rsquo;re done! Plug everything in and watch your Parallella boot up. Note that this configuration will also power the Parallella&rsquo;s cooling fan.</p>
 
-<p><span class='caption-wrapper middle'><img class='caption' src='http://rocksolar.com/images/parallella_solar_complete.jpg' width='' height='' alt='Parallella running on solar power.' title='Parallella running on solar power.'><span class='caption-text'>Parallella running on solar power.</span></span></p>
+<p><span class='caption-wrapper middle'><img class='caption' src='/images/parallella_solar_complete.jpg' width='' height='' alt='Parallella running on solar power.' title='Parallella running on solar power.'><span class='caption-text'>Parallella running on solar power.</span></span></p>
 
 <h3>Proof of Concept</h3>
 
