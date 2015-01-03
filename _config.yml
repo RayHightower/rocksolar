@@ -6,7 +6,8 @@ url: http://rocksolar.com
 title: RockSolar.com
 subtitle: Exploring solar energy and its uses.
 author: RockSolar.com
-simple_search: https://www.google.com/search
+lunr_search: true
+simple_search: # https://www.google.com/search
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
