@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Search Results"
-date: 2015-01-03 21:14
 comments: false
 sharing: false
 footer: false
