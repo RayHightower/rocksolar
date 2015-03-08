@@ -19,3 +19,11 @@ $(document).ready ->
                     entries: ".entries",
                     template: "#search-results-template"
 
+# Avoid ender.js conflicts. Added by RTH per Yortz's instructions
+# https://github.com/yortz/octopress-lunr-js-search
+jQuery.noConflict() # prevents conflicts with Ender.js, use jQuery instead of $
+
+jQuery ->
+    Handlebars.registerHelper "toLowerCase", (value) ->
+      (if (value and typeof value is "string") then new Handlebars.SafeString(value.toLowerCase()) else "")
+
