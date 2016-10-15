@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-CondoWeb.com
+RockSolar.com
 ===
 
 <hr>
@@ -10,10 +10,10 @@ CondoWeb.com
 
 ##This domain is for sale.##
 
-<p><strong>Price:</strong> $ 125,000.00 (USD) or best offer.</p>
-<p>Bonus: Sale includes the <a href="http://twitter.com/condoweb">@CondoWeb</a> handle on Twitter. Seller proposes to handle the transaction through <a href="https://escrow.com">Escrow.com</a> with escrow fees to be paid by seller.</p>
+<p><strong>Price:</strong> $ 25,000.00 (USD) or best offer.</p>
+<p>Bonus: Sale includes the <a href="http://twitter.com/rocksolar">@RockSolar</a> handle on Twitter. Seller proposes to handle the transaction through <a href="https://escrow.com">Escrow.com</a> with escrow fees to be paid by seller.</p>
 
-###CondoWeb.com Inquiries:###
+###RockSolar.com Inquiries:###
 
 <hr>
 
