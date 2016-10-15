@@ -4,14 +4,8 @@ baseurl: /
 # Social Media
 google_analytics_tracking_id:
 
-markdown: redcarpet
-# markdown: rdiscount
-# rdiscount:
-redcarpet:
-  extensions:
-    - autolink
-    - footnotes
-    - smart
+markdown: kramdown
+
 highlighter: pygments # default python pygments have been replaced by pygments.rb
   
 # For Jekyll Plugins, per http://jekyllrb.com/docs/plugins/
