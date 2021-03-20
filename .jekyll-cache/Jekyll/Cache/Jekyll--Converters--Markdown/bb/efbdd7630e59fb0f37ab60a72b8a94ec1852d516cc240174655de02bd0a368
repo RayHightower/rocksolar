@@ -1,26 +1,18 @@
----
-layout: default
----
+I"<h1 id="rocksolarcom">RockSolar.com</h1>
 
-RockSolar.com
-===
+<hr />
 
-<hr>
-
-## This domain is for sale.
+<h2 id="this-domain-is-for-sale">This domain is for sale.</h2>
 
 <p><strong>Price:</strong> $ 5,000.00 (USD) or best offer.</p>
 <p>Bonus: Sale includes the <a href="http://twitter.com/rocksolar">@RockSolar</a> handle on Twitter. Seller proposes to handle the transaction through <a href="https://escrow.com">Escrow.com</a> with escrow fees to be paid by seller.</p>
 
 <p>(Separately, <a href="http://condoweb.com">CondoWeb.com</a> is also for sale.)</p>
 
-### RockSolar.com Inquiries:
+<h3 id="rocksolarcom-inquiries">RockSolar.com Inquiries:</h3>
 
-<table width="100%">
-<tr>
-<td>&nbsp;</td>
-<td>
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+
 <script>
   hbspt.forms.create({
 	region: "na1",
@@ -28,6 +20,5 @@ RockSolar.com
 	formId: "8bbb917b-4970-4072-8cb9-f441aab4d88a"
 });
 </script>
-</td>
-</tr>
-</table>
+
+:ET
