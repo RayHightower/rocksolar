@@ -16,6 +16,7 @@ RockSolar.com
 
 ### RockSolar.com Inquiries:
 
+<center>
 <table width="100%">
 <tr>
 <td>&nbsp;</td>
@@ -31,3 +32,4 @@ RockSolar.com
 </td>
 </tr>
 </table>
+</center>
