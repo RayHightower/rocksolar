@@ -9,7 +9,7 @@ RockSolar.com
 
 ## This domain is for sale.
 
-<p><strong>Price:</strong> $ 5,000.00 (USD) or best offer.</p>
+<p><strong>Price:</strong> Determined by the market.</p>
 <p>Bonus: Sale includes the <a href="http://twitter.com/rocksolar">@RockSolar</a> handle on Twitter. Seller proposes to handle the transaction through <a href="https://escrow.com">Escrow.com</a> with escrow fees to be paid by seller.</p>
 
 <p>(Separately, <a href="http://condoweb.com">CondoWeb.com</a> is also for sale.)</p>
